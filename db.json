@@ -1,0 +1,44 @@
+{
+  "jobData": [
+    {
+      "company": "myhome",
+      "city": "gwl",
+      "location": "USA oNLY",
+      "role": "frontend",
+      "level": "Senior",
+      "position": "backendDeveloper",
+      "language": [
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "contract": "fullTime",
+      "postedAt": "Tue Jun 13 2023 12:45:35 GMT+0530 (India Standard Time)",
+      "id": 1
+    },
+    {
+      "company": "myhome",
+      "city": "gwl",
+      "location": "USA oNLY",
+      "role": "frontend",
+      "level": "Senior",
+      "position": "backendDeveloper",
+      "language": [
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "contract": "fullTime",
+      "postedAt": "Tue Jun 13 2023 12:45:35 GMT+0530 (India Standard Time)",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
